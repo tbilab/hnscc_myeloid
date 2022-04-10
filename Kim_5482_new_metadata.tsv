@@ -1,0 +1,13 @@
+ID	SampleID	Organism	MouseID	Cell	Treatment
+P5482_SR_01	5482SR-1	mouse	Mouse01	macrophage	untreated
+P5482_SR_02	5482SR-2	mouse	Mouse01	macrophage	AC
+P5482_SR_05	5482SR-5	mouse	Mouse03	macrophage	untreated
+P5482_SR_06	5482SR-6	mouse	Mouse03	macrophage	AC
+P5482_SR_08	5482SR-8	mouse	Mouse05	macrophage	untreated
+P5482_SR_09	5482SR-9	mouse	Mouse05	macrophage	AC
+P5482_SR_10	5482SR-10	mouse	Mouse06	macrophage	untreated
+P5482_SR_11	5482SR-11	mouse	Mouse06	macrophage	AC
+P5482_SR_12	5482SR-12	mouse	Mouse07	macrophage	untreated
+P5482_SR_13	5482SR-13	mouse	Mouse07	macrophage	AC
+P5482_SR_14	5482SR-14	mouse	Mouse08	macrophage	untreated
+P5482_SR_15	5482SR-15	mouse	Mouse08	macrophage	AC

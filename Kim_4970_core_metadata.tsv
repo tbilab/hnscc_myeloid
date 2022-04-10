@@ -1,0 +1,14 @@
+ID	Label	Tissue	Cell	PatientID
+P4970_SR_1	4970-SR-1	tumor	cd11b	Pt01
+P4970_SR_2	4970-SR-2	blood	cd11b	Pt01
+P4970_SR_3	4970-SR-3	tumor	cd11b	Pt02
+P4970_SR_4	4970-SR-4	blood	cd11b	Pt02
+P4970_SR_5	4970-SR-5	tumor	cd11b	Pt03
+P4970_SR_6	4970-SR-6	blood	cd11b	Pt03
+P4970_SR_7	4970-SR-7	tumor	cd11b	Pt04
+P4970_SR_9	4970-SR-9	tumor	cd11b	Pt05
+P4970_SR_10	4970-SR-10	blood	cd11b	Pt05
+P4970_SR_11	4970-SR-11	tumor	cd11b	Pt06
+P4970_SR_12	4970-SR-12	blood	cd11b	Pt06
+P4970_SR_13	4970-SR-13	tumor	cd11b	Pt07
+P4970_SR_14	4970-SR-14	blood	cd11b	Pt07
